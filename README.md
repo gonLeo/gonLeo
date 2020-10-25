@@ -1,6 +1,6 @@
 # :man_technologist: Leonardo Gonçalves
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gonLeo)](https://github.com/fogeid)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gonLeo)](https://github.com/gonLeo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonleo/)](https://www.linkedin.com/in/dbatista/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=556599811873&text=Olá te vi no gitHub ( :!)](https://api.whatsapp.com/send?phone=556599811873&text=Olá te vi no gitHub ( :!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardo.oliveira@aluno.ic.ufmt.br)](mailto:leonardo.oliveira@aluno.ic.ufmt.br)
@@ -32,9 +32,9 @@ My name is Leonardo Gonçalves, a Computer Science student at the Universidade F
 
 ## My Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fogeid&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gonLeo&show_icons=true&hide_border=true)
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=gonLeo&hide=html&layout=compac -->
 
-> :octocat: [fogeid.github.io](https://gonLeo.github.io)
+> :octocat: [gonLeo.github.io](https://gonLeo.github.io)
 
 ---
