@@ -1,7 +1,7 @@
 # :man_technologist: Leonardo Gonçalves
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gonLeo)](https://github.com/gonLeo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonleo/)](https://www.linkedin.com/in/dbatista/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonleo/)](https://www.linkedin.com/in/gonLeo/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=556599811873&text=Olá!)](https://api.whatsapp.com/send?phone=556599811873&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardo.oliveira@aluno.ic.ufmt.br)](mailto:leonardo.oliveira@aluno.ic.ufmt.br)
 
