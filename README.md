@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonleo&layout=compact)](https://github.com/gonleo/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonleo&show_icons=true&locale=en" alt="gonleo" /></p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonleo)](https://github.com/gonleo/github-readme-stats)
