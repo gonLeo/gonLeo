@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com Node e React no desenvolvimento do **sistema de patrimônio da POLITEC**
 
-- 🌱 Aprendendo **Spring Boot**
+- 🌱 Aprendendo **Angular**
 
 - 👨‍💻 Você pode descobrir um pouco mais sobre mim aqui [https://gonLeo.github.io](https://gonLeo.github.io)
 
