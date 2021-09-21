@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Leonardo</h1>
 <h3 align="center">Gosto muito de criar aplicações e ver seus resultados práticos, facilitando e melhorando a vida de alguém. Aqui você pode conhecer um pouco mais sobre mim e ver alguns de meus projetos. Seja bem vindo ao meu portfólio :D</h3>
 
-- 🔭 Atualmente estou trabalhando com Spring Boot e Angular na **TOTEM**
+- 🔭 Atualmente estou trabalhando com Java EE - JAX-RS e Angular na **CAPGEMINI**
 
 - 🌱 Aprendendo **Angular**
 
