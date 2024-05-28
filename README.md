@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">I really enjoy creating applications and seeing their practical results, making someone's life easier and better. Here you can learn a little more about me and see some of my projects. Welcome to my portfolio :D</h3>
+<h3 align="left">I really enjoy creating applications and seeing their practical results, making someone's life easier and better. Here you can learn a little more about me and see some of my projects. Welcome to my portfolio :D</h3>
 👨‍💻 You can find out more about me here https://gonLeo.github.io
 
 📫 Drop me a message leonardo.g.o.lrv@gmail.com
@@ -28,3 +28,4 @@
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonleo&layout=compact)](https://gonLeo.github.io)
